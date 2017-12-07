@@ -1,0 +1,26 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "A responsive nature tours website style developed as part of the Advanced CSS and Sass Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osmarluz/natours.git"
+  },
+  "keywords": [
+    "css",
+    "sass"
+  ],
+  "author": "Osmar Luz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osmarluz/natours/issues"
+  },
+  "homepage": "https://github.com/osmarluz/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
