@@ -669,6 +669,9 @@ body {
     display: inline-block; }
     .footer__item:not(:last-child) {
       margin-right: 1.5rem; }
+      @media (max-width: 56.25em) {
+        .footer__item:not(:last-child) {
+          margin-right: 1rem; } }
   .footer__link:link, .footer__link:visited {
     color: #f7f7f7;
     background-color: #333;
