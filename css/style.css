@@ -536,10 +536,10 @@ body {
     transform: translate(-50%, -50%) scale(0.25);
     transition: all .5s .2s; }
   .popup__left {
-    width: 33.333333%;
+    width: 35.9%;
     display: table-cell; }
   .popup__right {
-    width: 66.666667%;
+    width: 64.1%;
     display: table-cell;
     vertical-align: middle;
     padding: 3rem 5rem; }
